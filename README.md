@@ -1,1 +1,1 @@
-# calorie-tracker-angular
+# Calorie Tracker Angular
